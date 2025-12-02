@@ -26,28 +26,6 @@ Tools            Docker • VirtualBox • Metasploit • Nmap
 
 ---
 
-<!-- 
-═══════════════════════════════════════════════════════════════════════════════
-  FEATURED PROJECTS SECTION (Currently Hidden)
-═══════════════════════════════════════════════════════════════════════════════
-
-To enable this section, uncomment the code below by removing the comment markers.
-
-INSTRUCTIONS:
-1. Remove the opening comment marker (this line and above)
-2. Remove the closing comment marker (line after the section ends)
-3. Update the project links and descriptions as needed
-4. Replace "cryptpatch" with your actual GitHub username
-
-TEMPLATE STRUCTURE:
-- Use ### for project titles
-- Include emoji for visual appeal
-- Add direct GitHub repository links
-- Brief description (1-2 sentences max)
-- List key technologies used
-
-═══════════════════════════════════════════════════════════════════════════════
-
 ## 📂 Featured Projects
 
 ### 🔧 [Personal_Workflow_Settings](https://github.com/cryptpatch/Personal_Workflow_Settings)
@@ -65,54 +43,7 @@ Experiments, algorithms, and proof-of-concepts from my learning journey.
 
 **Tech**: Various languages and frameworks
 
-### 🔒 [Security_Audit_Report](https://github.com/cryptpatch/ThirdI/blob/main/SECURITY_AUDIT_REPORT.md)
-Comprehensive Windows security audit and performance optimization guide. Real-world documentation of threat assessment and system hardening.
-
-**Tech**: PowerShell, Windows Security, System Administration
-
 ---
-
-HOW TO ADD NEW PROJECTS:
-Copy this template and fill it in:
-
-### [EMOJI] [Project Name](https://github.com/YOUR_USERNAME/REPO_NAME)
-Brief description of what the project does and why it's interesting.
-
-**Tech**: Technology1, Technology2, Technology3
-
-═══════════════════════════════════════════════════════════════════════════════
--->
-
-<!-- 
-═══════════════════════════════════════════════════════════════════════════════
-  GITHUB ACTIVITY SECTION (Currently Hidden)
-═══════════════════════════════════════════════════════════════════════════════
-
-To enable this section, uncomment the code below.
-
-INSTRUCTIONS:
-1. Remove the opening comment marker (this line and above)
-2. Remove the closing comment marker (line after the section ends)
-3. Replace "cryptpatch" with your actual GitHub username in both URLs
-
-CUSTOMIZATION OPTIONS:
-
-GitHub Stats Card:
-- Themes: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula
-- Hide stats: &hide=stars,commits,prs,issues,contribs
-- Show icons: &show_icons=true
-- Include all commits: &include_all_commits=true
-- Count private: &count_private=true
-
-Top Languages Card:
-- Layouts: compact, donut, donut-vertical, pie
-- Hide languages: &hide=html,css
-- Exclude repos: &exclude_repo=repo1,repo2
-- Show more languages: &langs_count=8
-
-Full documentation: https://github.com/anuraghazra/github-readme-stats
-
-═══════════════════════════════════════════════════════════════════════════════
 
 ## 📊 GitHub Activity
 
@@ -123,34 +54,6 @@ Full documentation: https://github.com/anuraghazra/github-readme-stats
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptpatch&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
-
----
-
-ALTERNATIVE GITHUB ACTIVITY WIDGETS:
-
-1. GitHub Streak Stats:
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cryptpatch&theme=tokyonight&hide_border=true)
-  
-</div>
-
-2. GitHub Profile Trophy:
-<div align="center">
-  
-  ![trophy](https://github-profile-trophy.vercel.app/?username=cryptpatch&theme=tokyonight&no-frame=true&row=1&column=6)
-  
-</div>
-
-3. Activity Graph:
-<div align="center">
-  
-  ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cryptpatch&theme=tokyo-night)
-  
-</div>
-
-═══════════════════════════════════════════════════════════════════════════════
--->
 
 ---
 
