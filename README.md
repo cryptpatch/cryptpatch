@@ -26,7 +26,7 @@ Tools            Docker • VirtualBox • Metasploit • Nmap
 
 ---
 
-## 📂 Featured Projects
+<!-- ## 📂 Featured Projects
 
 ### 🔧 [Personal_Workflow_Settings](https://github.com/cryptpatch/Personal_Workflow_Settings)
 Complete development environment handbook covering Windows Terminal, PowerShell, Git, WSL2, and pentesting setup.
@@ -55,7 +55,7 @@ Experiments, algorithms, and proof-of-concepts from my learning journey.
   
 </div>
 
----
+--- -->
 
 ## 🌱 Current Focus
 
