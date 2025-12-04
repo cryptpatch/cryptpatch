@@ -26,7 +26,8 @@ Tools            Docker • VirtualBox • Metasploit • Nmap
 
 ---
 
-<!-- ## 📂 Featured Projects
+<!-- 
+## 📂 Featured Projects
 
 ### 🔧 [Personal_Workflow_Settings](https://github.com/cryptpatch/Personal_Workflow_Settings)
 Complete development environment handbook covering Windows Terminal, PowerShell, Git, WSL2, and pentesting setup.
@@ -42,9 +43,11 @@ IDE configurations and productivity optimizations for PyCharm, IntelliJ IDEA, an
 Experiments, algorithms, and proof-of-concepts from my learning journey.
 
 **Tech**: Various languages and frameworks
+-->
 
 ---
 
+<!-- 
 ## 📊 GitHub Activity
 
 <div align="center">
@@ -54,8 +57,9 @@ Experiments, algorithms, and proof-of-concepts from my learning journey.
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptpatch&layout=compact&theme=tokyonight&hide_border=true)
   
 </div>
+-->
 
---- -->
+---
 
 ## 🌱 Current Focus
 

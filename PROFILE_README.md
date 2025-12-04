@@ -72,6 +72,7 @@ I'm a **Computer Science student** with a passion for the intellectually uniqueâ
 
 ---
 
+<!-- 
 ## ðŸ“‚ Featured Projects
 
 ### ðŸ”§ [Personal_Workflow_Settings](https://github.com/cryptpatch/Personal_Workflow_Settings)
@@ -95,9 +96,11 @@ I'm a **Computer Science student** with a passion for the intellectually uniqueâ
 
 ### ðŸ“š [Repo_for_learning](https://github.com/cryptpatch/Repo_for_learning)
 > My learning journey and experimental projects
+-->
 
 ---
 
+<!-- 
 ## ðŸ“Š GitHub Stats
 
 <div align="center">
@@ -107,6 +110,7 @@ I'm a **Computer Science student** with a passion for the intellectually uniqueâ
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptpatch&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF)
   
 </div>
+-->
 
 ---
 
