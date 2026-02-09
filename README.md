@@ -9,7 +9,7 @@
 <div align="center">
   
   <!-- You can add your profile image here -->
-  <img src="https://github.com/cryptpatch.png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 3px solid #00F7FF;">
+<!--  <img src="https://github.com/cryptpatch.png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 3px solid #00F7FF;">
   
 </div>
 
@@ -19,7 +19,7 @@
   <a href="https://github.com/cryptpatch"><img src="https://img.shields.io/github/followers/cryptpatch?label=Followers&style=social" alt="GitHub Badge"></a>
 </p>
 
----
+---  -->
 
 ## 👋 Hello! My name is **cryptpatch**
 
