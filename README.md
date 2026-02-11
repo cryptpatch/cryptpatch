@@ -1,26 +1,4 @@
-[# Hi there 👋, Welcome!
-
-<div align="center">
-  
-  ![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Hello,%20I'm%20cryptpatch&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Let's%20Connect!&descAlignY=55&descAlign=50)
-  
-</div>
-<div align="center">
-  
-  <!-- You can add your profile image here -->
-<!--  <img src="https://github.com/cryptpatch.png" alt="Profile Picture" width="200" style="border-radius: 50%; border: 3px solid #00F7FF;">
-  
-</div>
-
-<h1 align="center">cryptpatch</h1>
-
-<p align="center">
-  <a href="https://github.com/cryptpatch"><img src="https://img.shields.io/github/followers/cryptpatch?label=Followers&style=social" alt="GitHub Badge"></a>
-</p>
-
----  -->
-
-## 👋 Hello! My name is **cryptpatch**
+  ## 👋 Hello! My name is **cryptpatch**
 
 I am a Computer Science student passionate about **software development**, **security research**, and **systems programming**. 🔒
 
@@ -112,16 +90,3 @@ I love to join different communities and competitions that involve creating some
   ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=cryptpatch&theme=tokyonight&hide_border=true)
   
 </div>
-
----
-
-<div align="center">
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=cryptpatch&color=00F7FF&style=flat-square)
-  
-  ### 💻 Code • Learn • Build • Secure
-  
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=120&section=footer)
-  
-</div>
-](https://github.com/)
