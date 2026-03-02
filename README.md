@@ -24,6 +24,6 @@ Computer Science student learning by building, breaking, and improving systems.
 I’m still learning, so this profile reflects what I’m actively practicing—not expert claims.
 
 ## Connect
-- LinkedIn: https://linkedin.com/in/cryptpatch
-- X/Twitter: https://twitter.com/cryptpatch
-- Email: your-email@example.com
+<!-- - LinkedIn: https://linkedin.com/in/cryptpatch -->
+- X/Twitter: https://twitter.com/cryptp4tch
+<!-- - Email: your-email@example.com -->
