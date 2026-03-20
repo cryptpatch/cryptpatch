@@ -26,4 +26,4 @@ I’m still learning, so this profile reflects what I’m actively practicing—
 ## Connect
 <!-- - LinkedIn: https://linkedin.com/in/cryptpatch -->
 - X/Twitter: https://twitter.com/cryptp4tch
-<!-- - Email: your-email@example.com -->
+- Email: your-cryptpatch@proton.me
