@@ -1,42 +1,43 @@
-## > whoami
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:161b22&height=140&section=header&text=cryptpatch&fontSize=44&fontColor=58a6ff&animation=fadeIn&fontAlignY=40)
 
-CS student teaching myself offensive security, red teaming, and exploit development outside of class.
-College covers the basics — the interesting stuff I learn on my own.
+## whoami
+
+CS student. Offensive security is where I put my real hours — red teaming, exploit development, reverse engineering.  
+Curriculum covers the surface. The rest I dig for myself.
+
+> *Breaking things isn't destructive — it's diagnostic.*
 
 ---
 
-## Focus Areas
+## Focus
 
 - **Red Teaming** — adversary simulation, lateral movement, post-exploitation
 - **Exploit Development** — vulnerability research, binary exploitation, shellcoding
 - **Reverse Engineering** — static/dynamic analysis, debugging, decompilation
-- **Offensive Tooling** — writing custom tools for recon, evasion, and automation
+- **Offensive Tooling** — custom tools for recon, evasion, and automation
 
 ---
 
-## Languages
+## Stack
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+<img src="assets/icons/python.svg" width="36" alt="Python" title="Python"> &nbsp;
+<img src="assets/icons/c.svg" width="36" alt="C" title="C"> &nbsp;
+<img src="assets/icons/bash.svg" width="36" alt="Bash" title="Bash"> &nbsp;
+<img src="assets/icons/powershell.svg" width="36" alt="PowerShell" title="PowerShell"> &nbsp;
+<img src="assets/icons/java.svg" width="36" alt="Java" title="Java">
 
-## Platforms & Tools
+<br>
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-<!-- Add new badges here as you pick up more tools -->
+<img src="assets/icons/linux.svg" width="36" alt="Linux" title="Linux"> &nbsp;
+<img src="assets/icons/docker.svg" width="36" alt="Docker" title="Docker"> &nbsp;
+<img src="assets/icons/git.svg" width="36" alt="Git" title="Git"> &nbsp;
+<img src="assets/icons/vscode.svg" width="36" alt="VS Code" title="VS Code">
 
 ---
 
 ## Connect
 
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/cryptp4tch)
-[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cryptpatch@proton.me)
+[![X](https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white)](https://twitter.com/cryptp4tch)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=flat-square&logo=protonmail&logoColor=white)](mailto:cryptpatch@proton.me)
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:161b22,100:0d1117&height=80&section=footer)
