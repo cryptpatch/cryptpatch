@@ -1,29 +1,44 @@
-# Hi, I'm cryptpatch 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=160&section=header&text=cryptpatch&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=38)
 
-Computer Science student learning by building, breaking, and improving systems.
+## > whoami
 
-## What I'm working on
-- Learning Python and network security fundamentals
-- Practicing Linux, scripting, and problem solving
-- Building small projects to improve consistency
+CS student teaching myself offensive security, red teaming, and exploit development outside of class.
+College covers the basics — the interesting stuff I learn on my own.
 
-## Tech I use
-<p align="left">
-	<img src="assets/icons/python.svg" alt="Python" width="30" height="30" />
-	<img src="assets/icons/c.svg" alt="C" width="30" height="30" />
-	<img src="assets/icons/java.svg" alt="Java" width="30" height="30" />
-	<img src="assets/icons/bash.svg" alt="Bash" width="30" height="30" />
-	<img src="assets/icons/powershell.svg" alt="PowerShell" width="30" height="30" />
-	<img src="assets/icons/linux.svg" alt="Linux" width="30" height="30" />
-	<img src="assets/icons/git.svg" alt="Git" width="30" height="30" />
-	<img src="assets/icons/docker.svg" alt="Docker" width="30" height="30" />
-	<img src="assets/icons/vscode.svg" alt="VS Code" width="30" height="30" />
-</p>
+---
 
-## About this profile
-I’m still learning, so this profile reflects what I’m actively practicing—not expert claims.
+## Focus Areas
+
+- **Red Teaming** — adversary simulation, lateral movement, post-exploitation
+- **Exploit Development** — vulnerability research, binary exploitation, shellcoding
+- **Reverse Engineering** — static/dynamic analysis, debugging, decompilation
+- **Offensive Tooling** — writing custom tools for recon, evasion, and automation
+
+---
+
+## Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+
+## Platforms & Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+<!-- Add new badges here as you pick up more tools -->
+
+---
 
 ## Connect
-<!-- - LinkedIn: https://linkedin.com/in/cryptpatch -->
-- X/Twitter: https://twitter.com/cryptp4tch
-- Email: cryptpatch@proton.me
+
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/cryptp4tch)
+[![Email](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:cryptpatch@proton.me)
+
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0d1117&height=100&section=footer)
