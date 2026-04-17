@@ -1,5 +1,3 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=160&section=header&text=cryptpatch&fontSize=48&fontColor=00ff41&animation=fadeIn&fontAlignY=38)
-
 ## > whoami
 
 CS student teaching myself offensive security, red teaming, and exploit development outside of class.
