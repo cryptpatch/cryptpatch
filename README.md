@@ -20,4 +20,4 @@ Class covers what was built. I'm more interested in what breaks.
 
 ---
 
-[X / @cryptp4tch](https://twitter.com/cryptp4tch) · [cryptpatch@proton.me](mailto:cryptpatch@proton.me)
+[cryptpatch@proton.me](mailto:cryptpatch@proton.me)
